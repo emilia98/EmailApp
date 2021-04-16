@@ -1,0 +1,47 @@
+{
+    "emails": [
+        {
+            "senderName": "Quora Digest",
+            "title" : "What predator can take down a Kodiak bear?",
+            "date": "12:46",
+            "content": "Answer: The Kodiak bear is the largest bear in \nthe world, after the polar bear. . . Evgeni's Dige...",
+            "isRead": false
+        },
+        {
+            "senderName": "YourKit",
+            "title" : "YourKit Java Profiler 2021.3 Realeased",
+            "date": "4:40",
+            "content": "Greetings, YourKit team excited to announce \ngeneral availability of YourKit Java Profiler 202...",
+            "isRead": false
+        },
+        {
+            "senderName": "Swift Forums",
+            "title" : "[Swift Forums] Summary",
+            "date": "Yesterday",
+            "content": "A brief summary since your last visit on March 18...",
+            "isRead": false
+        },
+        {
+            "senderName": "Quora Digest",
+            "title" : "Why do poor people buy expensive stuff?",
+            "date": "Yesterday",
+            "content": "As Rachel said below, lower-income people aren't a \nmonolithic group, a. . . Evgeni's...",
+            "isRead": false
+        },
+        {
+            "senderName": "Книгомания - онлайн к...",
+            "title" : "Поръчайте предварително книгата \"379 дни...",
+            "date": "Yesterday",
+            "content": "Отвори имейла в твоя браузър. \nОчаквайте от Книгомания...",
+            "isRead": true
+        },
+        {
+            "senderName": "Google Ad Manager",
+            "title" : "Важна актуализация: През 2021 г. предстои...",
+            "date": "Yesterday",
+            "content": "Важна актуализация: През 2021 г. предстои...",
+            "isRead": false
+        },
+    ]
+
+}
